@@ -26,7 +26,6 @@ Each folder contains the source code (`index.c`) and instructions for compiling 
     - [Input Requirements](#input-requirements-1)
     - [Expected Output](#expected-output-1)
   - [Contributors](#contributors)
-  - [License](#license)
     - [**How to Use This File**](#how-to-use-this-file)
 
 ---
@@ -119,11 +118,6 @@ This project was developed by Group 4 as part of the COS 102 Mid-Semester Assess
 - Nestor Efoke
 - Yahhurwa Yusuf
 - Micheal Comfort Opeyemi
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
