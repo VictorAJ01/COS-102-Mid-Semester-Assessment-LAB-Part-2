@@ -26,7 +26,6 @@ Each folder contains the source code (`index.c`) and instructions for compiling 
     - [Input Requirements](#input-requirements-1)
     - [Expected Output](#expected-output-1)
   - [Contributors](#contributors)
-    - [**How to Use This File**](#how-to-use-this-file)
 
 ---
 
@@ -118,14 +117,3 @@ This project was developed by Group 4 as part of the COS 102 Mid-Semester Assess
 - Nestor Efoke
 - Yahhurwa Yusuf
 - Micheal Comfort Opeyemi
-
----
-
-### **How to Use This File**
-1. Copy the entire content above.
-2. Create a new file in your repository named `README.md`.
-3. Paste the content into the file.
-4. Save and commit the file to your GitHub repository.
-
-This **README.md** file is written in Markdown format and will render properly on GitHub, providing a clean and professional documentation for your project. Let me know if you need further assistance!
-
